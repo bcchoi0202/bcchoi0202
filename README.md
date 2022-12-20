@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/bcchoi0202"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=bcchoi0202&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </p>
 
